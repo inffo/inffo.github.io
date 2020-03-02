@@ -1100,11 +1100,15 @@ section.lazy-placeholder:after {
   color: #c1c1c1 !important;
 }
 .cid-qTkA127IK8 {
-  background-image: url("../../../assets/images/459f408e-a173-4747-922d-fd5d9eb527be-1024x768.jpg");
+  background-image: url("../../../assets/images/mbr-1920x1214.jpg");
 }
 .cid-qTkA127IK8 H1 {
   color: #ff7f9f;
   text-align: center;
+}
+.cid-qTkA127IK8 .mbr-text,
+.cid-qTkA127IK8 .mbr-section-btn {
+  color: #ffffff;
 }
 .cid-qTkAaeaxX5 {
   padding-top: 60px;
